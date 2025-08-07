@@ -1,0 +1,3 @@
+Hello, this is a file.
+It contains some sample text.
+This file will be read, written, and modified.
